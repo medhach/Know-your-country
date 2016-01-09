@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Know your Country</string>
+    <string name="app_name_text">Know your Country!</string>
+    <string name="text_capital">Capital :</string>
+    <string name="off_language">Official Language :</string>
+    <string name="demonym">Demonym :</string>
+    <string name="area">Area :</string>
+    <string name="population">Population :</string>
+    <string name="currency">Currency :</string>
+    <string name="callcode">Calling-code :</string>
+    <string name="next_button_text">Next</string>
+</resources>
